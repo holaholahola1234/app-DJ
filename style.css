@@ -1,0 +1,50 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+   font-size: 14px;
+   color: black; 
+}
+
+.velocidad{
+    float: left;
+
+}
+
+.disco{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.disco2{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volumen{
+    font-size: 23px;
+    margin: 15px;
+
+}
+
+.volumen{
+    float: right;
+}
+
+canvas{
+border: 15px solid darkcyan;
+border-radius: 30px;
+}
+
+.Boton{
+    width: 150px;
+    height: 35px;
+    font-size: 10px;
+}
